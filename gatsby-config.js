@@ -3,34 +3,54 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    url: 'https://maxgrok.netlify.com',
+    title: 'Blog by Max Goodman',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'founder and full stack developer.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
-        path: '/',
+        label: 'Home',
+        path: '/'
+      },
+      // {
+      //   label: 'Posts',
+      //   path: '/posts'
+      // },
+      {
+        label: 'Code',
+        path: '/code'
+      },
+      {
+        label: 'Talks',
+        path: '/talks'
+      },
+      {
+        label: 'Companies',
+        path: '/companies'
+      },
+      {
+        label: 'Press',
+        path: '/press'
       },
       {
         label: 'About me',
-        path: '/about/',
+        path: '/about'
       },
       {
         label: 'Contact me',
-        path: '/contact/',
+        path: '/contact'
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      name: 'Max Goodman',
+      email: 'max@atrest.us',
+      // telegram: '#',
+      twitter: '@maxxgrok',
+      github: 'maxgrok',
+      // rss: '#',
+      // vk: '#',
     },
   },
   plugins: [
