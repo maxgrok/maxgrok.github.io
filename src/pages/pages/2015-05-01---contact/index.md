@@ -10,3 +10,5 @@ Feel free to reach out any time. <br /><br />
 <a href="mailto:max.goodman@flatironschool.com">Email</a><br />
 <a href="http://www.twitter.com/maxxgrok">Twitter</a><br>
 <a href="http://www.github.com/maxgrok">Github</a><br />
+
+Thanks!
