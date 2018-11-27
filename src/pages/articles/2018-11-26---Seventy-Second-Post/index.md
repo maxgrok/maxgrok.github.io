@@ -114,7 +114,7 @@ Add a nested directory within `lib/` called `templates/`, which is our templatin
 We will be editing the `rails g scaffold` process. 
 
 Create a file within `scaffold` called `index.html.erb`
-Then go to [here][https://github.com/rails/rails/blob/master/railties/lib/rails/generators/erb/scaffold/templates/index.html.erb.tt] to find the usual code from Rails for the `index.html.erb` file. 
+Then go to <a href="https://github.com/rails/rails/blob/master/railties/lib/rails/generators/erb/scaffold/templates/index.html.erb.tt">here</a> to find the usual code from Rails for the `index.html.erb` file. 
 
 We will be editing this file directly. Copy and paste it into the `index.html.erb`. 
 
