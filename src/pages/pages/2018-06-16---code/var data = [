@@ -1,0 +1,19 @@
+var data = [
+  [409, 194, 207, 470, 178],
+  [454, 235, 333, 511, 103],
+  [474, 293, 525, 372, 408],
+  [428, 4321, 2786, 6683, 3921],
+  [265, 262, 6206, 2207, 5712]
+]
+
+function checkSum(array){
+	let newArray = []
+	array.forEach(arr =>{
+		var max = Math.max( ...arr)
+		var min = Math.min( ...arr)
+		let checkSum = max - min
+		newArray.push(checkSum)
+	})
+	return newArray.reduce((a,b)=> a + b)
+}
+checkSum(data);

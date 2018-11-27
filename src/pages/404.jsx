@@ -42,10 +42,9 @@ export const pageQuery = graphql`
         }
         author {
           name
-          email
+          email 
           twitter
           github
-          rss
         }
       }
     }
