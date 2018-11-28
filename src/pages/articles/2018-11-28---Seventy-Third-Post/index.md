@@ -30,7 +30,8 @@ description: "This is a post about the brief history of blockchain as paraphrase
 
 Now - There are active developers creating Dapps and smart contracts all over the world. Interest is growing! 
 
-## Source of information:
+## Source of information: 
+
 -[Bitcoin White Paper][https://bitcoin.org/bitcoin.pdf]<br><br>
 -[Blockchain Foundations and Use Cases - Coursera Lecture][https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/W6TLG/lesson-2-the-brief-brief-history-of-blockchain]<br><br>
 -[HBR][https://hbr.org/2017/01/the-truth-about-blockchain]<br><br>
