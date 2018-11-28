@@ -54,7 +54,7 @@ Now, you know what a gossip protocol does, types of gossip protocols, and rules 
 
 
 Sources for article:<br>
-- <a href="https://www.coursera.org/lecture/cloud-computing/1-2-the-gossip-protocol-5AOex">Cloud Computing Gossip Protocol Coursera Course</a>
-- <a href="https://en.wikipedia.org/wiki/Gossip_protocol"></a>
-- <a href="https://speakerdeck.com/haseebq/lets-build-a-blockchain-a-mini-cryptocurrency-in-ruby?slide=18">Haseeb Qureshi 2017</a>
-- <a href="https://www.coursera.org/lecture/cloud-computing/1-3-gossip-analysis-jjieX">1.3 Gossip Analysis - Cloud Computing - Coursera</a
+-<a href="https://www.coursera.org/lecture/cloud-computing/1-2-the-gossip-protocol-5AOex">Cloud Computing Gossip Protocol Coursera Course</a>
+-<a href="https://en.wikipedia.org/wiki/Gossip_protocol"></a>
+-<a href="https://speakerdeck.com/haseebq/lets-build-a-blockchain-a-mini-cryptocurrency-in-ruby?slide=18">Haseeb Qureshi 2017</a>
+-<a href="https://www.coursera.org/lecture/cloud-computing/1-3-gossip-analysis-jjieX">1.3 Gossip Analysis - Cloud Computing - Coursera</a
