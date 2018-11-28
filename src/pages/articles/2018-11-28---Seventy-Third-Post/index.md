@@ -34,4 +34,4 @@ Now - There are active developers creating Dapps and smart contracts all over th
 
 -<a href="https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a><br><br>
 -<a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/W6TLG/lesson-2-the-brief-brief-history-of-blockchain">Blockchain Foundations and Use Cases - Coursera Lecture</a><br><br>
-- <a href="https://hbr.org/2017/01/the-truth-about-blockchain">HBR</a><br><br>
+-<a href="https://hbr.org/2017/01/the-truth-about-blockchain">HBR</a><br><br>
