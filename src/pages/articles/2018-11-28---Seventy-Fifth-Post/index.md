@@ -30,3 +30,27 @@ Going one step further, we could combine these sorts of smart contract deploymen
 We could reimagine what hosting someone looks like with explicit expectations and agreements written to the knowledge and participation of both parties. 
 
 We could make a three party agreement system whereby one party pays for the housing, one party is housed, and another party is paid to provide the space. All executed by smart contract. Followed up with reviews for all parties involved. 
+
+-------------------------------------------------------------
+
+Quote from Consensys Ethereum Enterprise Applications : 
+Real Estate
+
+Problem
+The current real estate market has three main problems: inaccessibility, transaction costs, and poor liquidity. Real estate ownership and investment has been historically reserved for the wealthy because of the capital reserves and credit rating required to put money down and take out a mortgage on a new home. For those who manage to swim upstream to ownership, purchasing a home involves up to eight middlemen (brokers, legal counsel, inspector, appraiser, etc.), who altogether siphon off up to 5% of a home’s value. For investors, REIT brokers usually take 9–10% in commissions and fees. Finally, getting in and out of real estate assets is slow and arduous. Renters face lock-in periods, sellers have limited options for selling a fraction of a property, and investors who can buy into a REIT are still subject to a portfolio manager’s personal investment strategy and fee structures.
+
+Opportunity
+Ethereum’s decentralized architecture and smart contract functionality would obviate the need for multiple intermediaries in a real estate transaction and enable automated payouts of rental income. Particularly exciting is the opportunity to “tokenize” properties. By issuing real estate-backed tokens on the Ethereum blockchain, asset owners can fractionalize previously monolithic properties into almost infinite slices and unlock additional capital and a diverse pool of investors.
+
+Applications
+ConsenSys partnered with Dubai Properties to build a blockchain platform for tracking the provenance of real estate from planning and construction to customer sale using cryptographically secure digital signatures. Meridio, a ConsenSys venture that spun out of the engagement with Dubai Properties, converts individual properties into digital shares on the Ethereum blockchain. Accredited investors can purchase tokens on the Meridio platform — which represent fractional shares of properties — and reap a proportionate amount of rental income. Meridio’s Ethereum-based real estate marketplace exposes asset owners to a diverse pool of investors so owners can access capital, streamline transaction processing, and analyze asset-specific data in real time. Investors benefit from low capital requirements, reduced transaction fees, and increased portfolio liquidity.
+
+<a href="https://media.consensys.net/enterprise-ethereum-blockchain-use-cases-and-applications-by-industry-3914d1210049">Source Link</a>
+
+Write a Blockchain Use Case for Housing/Real Estate:
+
+Instructions: 
+What problem is this trying to solve? What is the value proposition of solving this problem?
+How will a blockchain be applied to this use case? Which component pieces will be utilized? Will the blockchain used be public, private, or consortium and why? Note: It might be beneficial to walk through the decision tree that was introduced in Module 3 Lesson 3: When to use a Blockchain (Limitations and Misconceptions).
+If a token is used to digitize an asset, store value, or to provide access to the blockchain, explain why it is needed? How will it be used? If it is not used, explain why ETH or another native token is all that needs to be utilized.
+Are there other factors to consider in this use case?
