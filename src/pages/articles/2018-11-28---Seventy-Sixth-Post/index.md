@@ -20,7 +20,7 @@ Hashing functions take in a data of any size or format and return a specific has
 
 Here is how cryptographic hashing functions work for Ethereum: 
 
-![cryptohashether]('./hashing.jpg')
+![cryptohashether](./hashing.jpg)
 
 
 ## Anatomy of a Block
@@ -29,7 +29,7 @@ A block is made up of a previous hash address, data unique to that block, nonce,
 
 It might be visually represented like this: 
 
-![block]('./block.png') 
+![block](./block.png) 
 
 (Source: <a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/MEq7s/lesson-4-anatomy-of-a-block">Anatomy of a Block</a>)
 
