@@ -20,7 +20,7 @@ Hashing functions take in a data of any size or format and return a specific has
 
 Here is how cryptographic hashing functions work for Ethereum: 
 
-![cryptohashether]('./hashing.png')
+![cryptohashether]('./hashing.jpg')
 
 
 ## Anatomy of a Block
