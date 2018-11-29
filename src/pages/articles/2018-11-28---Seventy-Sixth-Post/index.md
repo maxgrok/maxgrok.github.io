@@ -78,6 +78,6 @@ We also went over what type of nodes there are in a peer-to-peer network: full a
 Congratulations! Now, you know the basics of blockchain and what miners do to contribute to the ecosystem. 
 
 ## Sources:
-- <a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/BUttm/lesson-2-cryptographic-hash-functions">Cryptographic Hash Functions - Coursera - Consensys Academy</a><br>
+-<a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/BUttm/lesson-2-cryptographic-hash-functions">Cryptographic Hash Functions - Coursera - Consensys Academy</a><br>
 -<a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/lecture/MEq7s/lesson-4-anatomy-of-a-block">Anatomy of a Block - Coursera - Consensys Academy</a><br>
 
