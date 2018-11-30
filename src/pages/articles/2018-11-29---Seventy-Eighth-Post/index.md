@@ -8,7 +8,7 @@ category: " Blockchain"
 tags:
   - "Blockchain"
   - "Ethereum"
-  - ""
+  - "ipfs"
 description: "This is a post about how to build a ethers.io API empowered site to explore the Ethereum blockchain."
 ---
 
