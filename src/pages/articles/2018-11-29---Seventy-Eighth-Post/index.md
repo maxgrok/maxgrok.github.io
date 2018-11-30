@@ -3,7 +3,7 @@ title: "Build Your Own Ethereum Block Display Site"
 date: "2018-11-30T04:30:13.121Z"
 layout: post
 draft: false
-path: "/posts/seventy-seventh-post/"
+path: "/posts/seventy-eighth-post/"
 category: " Blockchain"
 tags:
   - "Blockchain"
