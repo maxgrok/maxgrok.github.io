@@ -2,7 +2,7 @@
 title: "JS Deli Counter Lab"
 date: "2018-03-02T14:10:13.121Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/twenty-fifth-post/"
 category: "Flatiron School"
 tags:
