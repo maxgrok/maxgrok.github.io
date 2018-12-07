@@ -9,7 +9,7 @@ tags:
   - "Blockchain"
   - "Gryd"
   - "P2P"
-description: "This is a post about Gryd, a Yelp! for help, that is a blockchain use case for the conclusions of the Coursera course 'Blockchain: Foundations and Use Cases`."
+description: "This is a post about Gryd, a Yelp! for help, that is a blockchain use case for the conclusion of the Coursera course 'Blockchain: Foundations and Use Cases`."
 ---
 This post is in the form of questions asked of the students of the Coursera course "Blockchain: Foundation and Use Cases" built and taught by Consensys Academy. It examines my own case study for an implementation of blockchain technology in a Dapp called Gryd.<br><br>
 
