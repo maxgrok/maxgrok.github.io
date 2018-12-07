@@ -2,7 +2,7 @@
 title: "Gryd: A Blockchain Use Case"
 date: "2018-12-07T16:10:13.121Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/seventy-nineth-post/"
 category: "Blockchain"
 tags:
