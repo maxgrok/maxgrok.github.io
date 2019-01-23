@@ -4,7 +4,7 @@ date: "2019-01-23T14:49:13.121Z"
 layout: post
 draft: false
 path: "/posts/eighty-first-post/"
-category: "Ethereum Blockchain"
+category: "Blockchain"
 tags:
   - "Blockchain"
   - "Decentralized"
