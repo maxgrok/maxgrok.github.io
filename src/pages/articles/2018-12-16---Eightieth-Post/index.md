@@ -2,7 +2,7 @@
 title: "IPFS vs. HTTP: The P2P Future of the Web"
 date: "2018-12-16T10:30:13.121Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/eightieth-post/"
 category: "P2P"
 tags:
@@ -19,9 +19,7 @@ In this post, we will discover go over the HTTP protocol, IPFS, and the potentia
 >"HTTP is the protocol that web browsers and web servers use to communicate with each other over the Internet. It is an application level protocol because it sits on top of the TCP layer in the protocol stack and is used by specific applications to talk to one another. In this case the applications are web browsers and web servers." 
 - [Shuler 2005][http://www.theshulers.com/whitepapers/internet_whitepaper/index.html]
 
-
-
-##The Potential Future: IPFS
+##The Potential Future: IPFS and the Permanent Web
 
 ##IPFS vs. HTTP
 
