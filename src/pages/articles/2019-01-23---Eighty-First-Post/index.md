@@ -35,6 +35,6 @@ The RANDAO smart contract is what is recommended, as it is the most secure and r
 
 Sources: 
 
-![Bitcoin Block Header](https://bitcoin.org/en/glossary/block-header)
-![Udemy Blockchain Course. Lecture 61.](https://www.udemy.com/ethereum-blockchain-certification/learn/v4/t/lecture/10078990?start=0)
+[Bitcoin Block Header](https://bitcoin.org/en/glossary/block-header)
+[Udemy Blockchain Course. Lecture 61.](https://www.udemy.com/ethereum-blockchain-certification/learn/v4/t/lecture/10078990?start=0)
 
