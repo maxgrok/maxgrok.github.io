@@ -33,15 +33,19 @@ Dynamic arrays can be resized by using the `.length` member in storage. Also, `.
 ## Visibility: Public, Private, External, Internal
 
 In Solidity, there are four visibility keywords: external, public, private, and internal. <br>
+
 <strong>External:</strong> <br>
 - Can be called from other contracts and by transactions <br>
 - Cannot be called internally<br>
 - useful for large arrays of data && may be more efficient<br>
+
 <strong>Public:</strong><br>
 - so long as it is apart of the contract interface, can be called by message calls and internally<br>
 - in the case of public state variables, they receive an automatic getter function <br>
+
 <strong>Internal:</strong><br>
 - only accessible internally (from within the contract, without using <em>this</em>)<br>
+
 <strong>Private:</strong><br>
 - only visible for the contract that they are declared in<br>
 - not available for even derived contracts<br>
