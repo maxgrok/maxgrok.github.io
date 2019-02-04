@@ -62,5 +62,5 @@ In Solidity, there are four visibility keywords: external, public, private, and 
 
 Sources: 
 
-[Solidity Visibility](https://www.bitdegree.org/learn/solidity-visibility-and-getters)
-[CBDE-Ethereum Udemy Course](https://www.udemy.com/ethereum-blockchain-certification/learn/v4/t/lecture/10172644?start=0)
+[Solidity Visibility](https://www.bitdegree.org/learn/solidity-visibility-and-getters)<br>
+[CBDE-Ethereum Udemy Course](https://www.udemy.com/ethereum-blockchain-certification/learn/v4/t/lecture/10172644?start=0)<br>
