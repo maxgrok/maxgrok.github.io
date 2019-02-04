@@ -22,10 +22,12 @@ Mappings are key-value pairs used for storage. They cannot be iterated through w
 
 Arrays can be dynamic or fixed-sized and store data in Solidity. These can be iterated through without an issue. 
 
-Dynamic arrays can be resized by using the `.length` member in storage. Also, `.push` may be used to add elements to the dynamic arrays, whereas for fixed-sized arrays you can use the bracket notation to access values and edit them. For example: <br>
+Dynamic arrays can be resized by using the `.length` member in storage. Also, `.push` may be used to add elements to the dynamic arrays, whereas for fixed-sized arrays you can use the bracket notation to access values and edit them. For example:
 
-    ```dynamicArray.push(1) // adds 1 to the dynamic array
-    fixedsizedArray[1] = 3 // adds 3 to the index of 1 in the fixed sized array```
+    ```
+    dynamicArray.push(1) // adds 1 to the dynamic array
+    fixedsizedArray[1] = 3 // adds 3 to the index of 1 in the fixed sized array
+    ```
 
 ## Visibility: Public, Private, External, Internal
 
