@@ -52,7 +52,7 @@ In Solidity, there are four visibility keywords: external, public, private, and 
 
 (source: [Solidity Visibility](https://www.bitdegree.org/learn/solidity-visibility-and-getters)) 
 
-## Interfaces Vs. Contracts Vs. BaseContracts
+## Interfaces Vs. Contracts Vs. Base Contracts
 
 <em>Interfaces</em> are like contracts except that they cannot hold any state variables and only carry function signatures (rather than implementations of functions). 
 
