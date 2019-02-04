@@ -38,16 +38,13 @@ In Solidity, there are four visibility keywords: external, public, private, and 
 - Cannot be called internally<br>
 - useful for large arrays of data && may be more efficient<br>
 
-<br>
 <strong>Public:</strong><br>
 - so long as it is apart of the contract interface, can be called by message calls and internally<br>
 - in the case of public state variables, they receive an automatic getter function <br>
 
-<br>
 <strong>Internal:</strong><br>
 - only accessible internally (from within the contract, without using <em>this</em>)<br>
 
-<br>
 <strong>Private:</strong><br>
 - only visible for the contract that they are declared in<br>
 - not available for even derived contracts<br>
@@ -61,3 +58,8 @@ In Solidity, there are four visibility keywords: external, public, private, and 
 <em>Contracts</em>, on the other hand, have the implementation of functions and state variables. 
 
 <em>Base Contracts</em> have the implementation of certain functions, state variables, and lack specific implementation of all functions required for the smart contract. This is used in the "Auction Contract" lesson of Blockgeeks in Ethereum 101 to create a sort of framework for basic functions used for auction contracts. 
+
+Sources: 
+
+[Solidity Visibility](https://www.bitdegree.org/learn/solidity-visibility-and-getters)
+[CBDE-Ethereum Udemy Course](https://www.udemy.com/ethereum-blockchain-certification/learn/v4/t/lecture/10172644?start=0)
