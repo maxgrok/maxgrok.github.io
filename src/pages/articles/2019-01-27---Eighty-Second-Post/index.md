@@ -1,6 +1,6 @@
 ---
 title: "Differences in Solidity"
-date: "2019-01-23T14:49:13.121Z"
+date: "2019-02-04T08:49:13.121Z"
 layout: post
 draft: false
 path: "/posts/eighty-second-post/"
