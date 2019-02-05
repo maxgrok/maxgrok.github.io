@@ -9,17 +9,15 @@ tags:
   - "Blockchain"
   - "Decentralized"
   - "P2P"
-description: "This is a post introducing the InterPlanetary File System and the potential future of the web as we know it."
+description: "This is a post introducing the InterPlanetary File System and how to use it."
 ---
 
-In this post, we will discover go over the HTTP protocol, IPFS, and the potential future of the entire web. Let's start with where we are now. 
+In this post, we will discover go over the HTTP protocol, IPFS, and how to use IPFS. Let's start with where we are now. 
 
 ##Current Web and the HTTP Protocol
 
 >"HTTP is the protocol that web browsers and web servers use to communicate with each other over the Internet. It is an application level protocol because it sits on top of the TCP layer in the protocol stack and is used by specific applications to talk to one another. In this case the applications are web browsers and web servers." 
 - [Shuler 2005](http://www.theshulers.com/whitepapers/internet_whitepaper/index.html)
-
-##The Potential Future: IPFS and the Permanent Web
 
 ##IPFS vs. HTTP
 
