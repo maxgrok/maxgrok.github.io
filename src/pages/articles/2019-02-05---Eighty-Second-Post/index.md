@@ -1,6 +1,6 @@
 ---
 title: "IPFS vs. HTTP: The P2P Future of the Web"
-date: "2018-02-05T14:30:13.121Z"
+date: "2019-02-05T14:30:13.121Z"
 layout: post
 draft: false
 path: "/posts/eighty-second-post/"
