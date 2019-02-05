@@ -1,8 +1,8 @@
 ---
 title: "IPFS vs. HTTP: The P2P Future of the Web"
-date: "2018-12-16T10:30:13.121Z"
+date: "2018-02-06T18:30:13.121Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/eightieth-post/"
 category: "P2P"
 tags:
