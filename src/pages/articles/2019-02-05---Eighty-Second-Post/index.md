@@ -14,7 +14,7 @@ description: "This is a post introducing the InterPlanetary File System and how 
 
 In this post, we will discover go over the HTTP protocol, IPFS, and how to use IPFS. Let's start with where we are now. 
 
-##Current Web and the HTTP Protocol
+##HTTP Protocol: Defined
 
 >"HTTP is the protocol that web browsers and web servers use to communicate with each other over the Internet. It is an application level protocol because it sits on top of the TCP layer in the protocol stack and is used by specific applications to talk to one another. In this case the applications are web browsers and web servers." 
 - [Shuler 2005](http://www.theshulers.com/whitepapers/internet_whitepaper/index.html)
