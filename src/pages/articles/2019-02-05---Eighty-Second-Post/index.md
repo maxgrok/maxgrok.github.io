@@ -23,7 +23,7 @@ In this post, we will discover go over the HTTP protocol, IPFS, and the potentia
 
 ##IPFS vs. HTTP
 
-![http vs. ipfs](./httpvsipfs.jpeg)
+![http vs. ipfs]('./httpvsipfs.jpg)
 
 ## Install and Use IPFS
 
