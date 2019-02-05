@@ -21,7 +21,7 @@ In this post, we will discover go over the HTTP protocol, IPFS, and how to use I
 
 ##IPFS vs. HTTP
 
-![http vs. ipfs]('./httpvsipfs.jpg)
+![http vs. ipfs](https://www.maxcdn.com/one/media/interplanetary-file-system.png)
 Source: [MaxCDN](https://www.maxcdn.com/one/visual-glossary/interplanetary-file-system/)
 
 ## Install and Use IPFS
