@@ -3,7 +3,7 @@ title: "Differences in Solidity"
 date: "2019-02-04T08:49:13.121Z"
 layout: post
 draft: false
-path: "/posts/eighty-second-post/"
+path: "/posts/eighty-first-post/"
 category: "Solidity"
 tags:
   - "Blockchain"

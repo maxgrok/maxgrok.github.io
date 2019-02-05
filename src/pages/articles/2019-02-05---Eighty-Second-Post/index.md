@@ -3,7 +3,7 @@ title: "IPFS vs. HTTP: The P2P Future of the Web"
 date: "2018-02-05T18:30:13.121Z"
 layout: post
 draft: false
-path: "/posts/eightieth-post/"
+path: "/posts/eighty-second-post/"
 category: "P2P"
 tags:
   - "Blockchain"

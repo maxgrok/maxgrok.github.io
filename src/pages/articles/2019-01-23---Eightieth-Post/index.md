@@ -3,7 +3,7 @@ title: "Random Numbers in the Ethereum Blockchain"
 date: "2019-01-23T14:49:13.121Z"
 layout: post
 draft: false
-path: "/posts/eighty-first-post/"
+path: "/posts/eightieth-post/"
 category: "Blockchain"
 tags:
   - "Blockchain"
