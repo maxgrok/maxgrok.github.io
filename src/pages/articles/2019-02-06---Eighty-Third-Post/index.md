@@ -29,7 +29,7 @@ Fifth, select 18.75 ether to receive from the Rinkeby Authentication Faucet. <br
 Sixth, wait for the transaction to be approved and processed. <br>
 The process should look like the below:<br>
 
-![rinkeby-faucet-waiting](http://imgur.com/SpesiXC)
+![rinkeby-faucet-waiting](http://imgur.com/SpesiXC.png)
 
 Seventh, check your Rinkeby Test Net account in MetaMask to see all the ether you just got. <br>
 
