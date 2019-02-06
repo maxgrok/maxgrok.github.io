@@ -44,6 +44,8 @@ ipfs - Global p2p merkle-dag filesystem.
 
 The installation worked! 
 
+By looking through options listed in `ipfs help`, you can figure out basic commands for using ipfs!
+
 ##Conclusion
 
 The future of the web is a decentralized peer-to-peer network that stores all the files in a distributed nature. Now, you know how to use the basics of IPFS and can get started using the new decentralized, p2p protocol that may well govern the future of the web. 
