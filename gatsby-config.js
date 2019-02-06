@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://maxgrok.netlify.com',
     title: 'Blog by Max Goodman',
     subtitle:
-      'founder and full stack developer.',
+      'founder && full stack && ethereum developer.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
