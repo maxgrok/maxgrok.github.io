@@ -9,7 +9,7 @@ tags:
   - "Blockchain"
   - "Decentralized"
   - "P2P"
-description: "This is a post introducing the InterPlanetary File System and how to use it."
+description: "This is a post introducing the InterPlanetary File System and briefly how to use it."
 ---
 
 In this post, we will discover briefly go over the HTTP protocol definition, IPFS and it's installation, and how to know how to use IPFS. Let's start with where we are now. 
