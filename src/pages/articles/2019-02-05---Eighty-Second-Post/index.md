@@ -1,5 +1,5 @@
 ---
-title: "IPFS vs. HTTP: The P2P Future of the Web"
+title: "IPFS vs. HTTP"
 date: "2019-02-05T14:30:13.121Z"
 layout: post
 draft: false
