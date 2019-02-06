@@ -12,7 +12,7 @@ tags:
 description: "This is a post introducing the InterPlanetary File System and how to use it."
 ---
 
-In this post, we will discover go over the HTTP protocol, IPFS, and how to use IPFS. Let's start with where we are now. 
+In this post, we will discover briefly go over the HTTP protocol definition, IPFS and it's installation, and how to know how to use IPFS. Let's start with where we are now. 
 
 ##HTTP Protocol: Defined
 
