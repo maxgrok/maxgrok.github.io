@@ -13,7 +13,7 @@ tags:
 description: "This is a post on how to make a query take variables passed as props from a parent component in a React/Apollo/GraphQL front end applications."
 ---
 
-In this post, we will explore how to make query variables available to Query components in React. This tutorial assumes a basic knowledge of React and GraphQL. 
+In this post, we will explore how to make query variables available to GraphQL `<Query>` components in React. This tutorial assumes a basic knowledge of React and GraphQL. 
 
 Please `npm install` or `yarn add` the following dependencies after running `npx create-react-app myappnamehere`
 - react-apollo
