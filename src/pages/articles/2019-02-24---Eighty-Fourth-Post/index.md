@@ -1,5 +1,5 @@
 ---
-title: "Add Query Variables from Props to GraphQL Query Component"
+title: "Add Query Variables from Props to <Query>"
 date: "2019-02-24T09:12:13.121Z"
 layout: post
 draft: false
