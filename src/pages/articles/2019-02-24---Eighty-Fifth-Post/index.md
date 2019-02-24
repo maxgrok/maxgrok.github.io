@@ -19,7 +19,7 @@ Please `npm install` or `yarn add` the following dependencies after running `npx
 - react-apollo
 - graphql-tag
 
-Be sure to import them in the top of your targeted react file like so: 
+Be sure to import them in the top of your targeted React file like so: 
 
 ` import gql from 'graphql-tag'` and 
 `import {graphql, Query} from 'react-apollo`
@@ -45,34 +45,34 @@ If you are having trouble defining your query, then please see the following res
 Let's go into our React class component `render()` method where our `<Query>` component lives. Here is a sample `<Query>` component usage with the above GraphQL query called "QUERY_HERE": 
 
 ```javascript
-    render(){
-        return(
-        <Query 
-            query={QUERY_HERE} //the query we defined
-            >
-            {{ loading, error, data }}{
-                //if loading the query, display this "Loading..." to the user
-                if (loading) return <p>Loading...</p>;
-                //if an error occurs in the query, then display to the user "Error: "
-                if (error) return <p>Error :</p>;
-                
-                //if query is successful, return the following
+render(){
+  return(
+    <Query 
+        query={QUERY_HERE} //the query we defined
+    >
+    {{ loading, error, data }}{
+        //if loading the query, display this "Loading..." to the user
+        if (loading) return <p>Loading...</p>;
+        //if an error occurs in the query, then display to the user "Error: "
+        if (error) return <p>Error :</p>;
+        
+        //if query is successful, return the following
+        return (
+            /**the result of the .map -ing of this query responses object */
+            {data.somepropertyhere.map((property, index)=>{
+                //display the following to the user
                 return (
-                    /**the result of the .map -ing of this query responses object */
-                    {data.somepropertyhere.map((property, index)=>{
-                        //display the following to the user
-                        return (
-                            <div>
-                                <p>{index}</p>
-                                <p>{property}</p>
-                            </div>
-                            )
-                        }}
+                    <div>
+                        <p>{index}</p>
+                        <p>{property}</p>
+                    </div>
                     )
-            }
-            </Query>
+                }}
             )
-    }```
+    }
+    </Query>
+    )
+}```
 
 This is relatively simple use of the `<Query>` component. It returns to the user "Loading..." if it is still loading, an "Error: " notice, if there is an error, and returns the data that is mapped in the form of one `<div>` with the `index` variable and the `property` variable as well to display to the user the results of the query, QUERY_HERE. 
 
@@ -107,7 +107,7 @@ The other way to pass variables to the query component is a lot easier.
 
 Let's re-examine our `<Query>` component inside our `render()` method.
 
-    ```javascript
+```javascript
     render(){
         return(
         <Query 
@@ -119,7 +119,8 @@ Let's re-examine our `<Query>` component inside our `render()` method.
             }
             </Query>
             )
-    }```
+    }
+```
 
 This passes the query variables to the `QUERY_HERE` query that are required for it to run. This is easier than the `export default` method and easier to read codewise. 
 
