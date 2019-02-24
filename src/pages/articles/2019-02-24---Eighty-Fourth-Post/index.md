@@ -108,18 +108,18 @@ The other way to pass variables to the query component is a lot easier.
 Let's re-examine our `<Query>` component inside our `render()` method.
 
 ```javascript
-    render(){
-        return(
-        <Query 
-            query={QUERY_HERE} //the query we defined
-            variables={{name: this.props.name}} /** Passing variables here that were passed as props to the class component */
-            >
-            {{ loading, error, data }}{
-                ...
-            }
-            </Query>
-            )
-    }
+render(){
+    return(
+    <Query 
+        query={QUERY_HERE} //the query we defined
+        variables={{name: this.props.name}} /** Passing variables here that were passed as props to the class component */
+        >
+        {{ loading, error, data }}{
+            ...
+        }
+        </Query>
+        )
+}
 ```
 
 This passes the query variables to the `QUERY_HERE` query that are required for it to run. This is easier than the `export default` method and easier to read codewise. 
