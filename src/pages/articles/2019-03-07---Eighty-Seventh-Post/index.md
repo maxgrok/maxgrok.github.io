@@ -54,4 +54,7 @@ Fix: run `heroku run rake db:migrate`.
 Congratulations! Your app is now deployed to Heroku!
 
 More Resources: 
+
 <a href="https://devcenter.heroku.com/articles/bundler-version#app-not-using-the-currently-supported-bundler-version">Heroku Bundler 2 issues</a>
+
+<a href="https://devcenter.heroku.com/articles/sqlite3">Heroku SQLite3 issues</a>
