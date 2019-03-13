@@ -10,7 +10,7 @@ tags:
   - "React"
   - "Mobile"
   - "Development"
-description: "This is a post about how to build your very first native mobile application using React Native: "Hello World!"."
+description: "This is a post about how to build your very first native mobile application using React Native: Hello World."
 ---
 
 This post assumes you already have Node.js and npm, as well as the latest version of XCode  installed, a favorite code editor, and are running on a the latest Mac OS X. 
