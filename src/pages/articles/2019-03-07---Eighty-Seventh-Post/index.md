@@ -1,5 +1,5 @@
 ---
-title: "Write Your First Red-Green Test"
+title: "Deployment Issues with Rails 6"
 date: "2019-03-07T12:00:13.121Z"
 layout: post
 draft: false
