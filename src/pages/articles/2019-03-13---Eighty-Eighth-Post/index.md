@@ -1,6 +1,6 @@
 ---
 title: "Run A 'Hello World' React Native App"
-date: "2019-03-13T12:00:13.121Z"
+date: "2019-03-13T17:00:13.121Z"
 layout: post
 draft: false
 path: "/posts/eighty-eighth-post/"
