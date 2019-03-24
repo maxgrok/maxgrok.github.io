@@ -71,7 +71,6 @@ tok = myNER.recognize( thirdToken );
 
 console.log( oneToken, twoToken, thirdToken );
 ```
-
  
 Now, we're going to run our program by running `node index.js`. 
 
