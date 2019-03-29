@@ -1,5 +1,5 @@
 ---
-title: "What's the difference between UDP and TCP?"
+title: "UDP vs. TCP"
 date: "2019-03-29T10:00:13.121Z"
 layout: post
 draft: false
