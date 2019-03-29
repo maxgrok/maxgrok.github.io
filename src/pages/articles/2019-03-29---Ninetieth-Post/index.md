@@ -12,7 +12,7 @@ tags:
 description: "This is a post about the difference between UDP and TCP and use cases for them both."
 ---
 
-<em>Warning: This post presumes a level of beginners knowledge of networking concepts such as IP addresses and some basic familiarity with setting up a network.</em>
+<em>Warning: This post presumes a level of beginners knowledge of networking concepts such as IP addresses. </em>
 
 ## Introduction 
 
