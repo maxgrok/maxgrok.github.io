@@ -46,9 +46,9 @@ On the other hand, UDP (UDP/IP) is faster than TCP and does not include the erro
         * live broadcasting
         * gaming
 
-Now, you know the differences between UDP and TCP! 
+Now, you know the differences between UDP and TCP! <br/>
 
-Sources: <br/><br/>
+Sources: <br/>
 
 <a href="https://www.lifewire.com/definition-of-protocol-network-817949">LifeWire</a><br/>
 
