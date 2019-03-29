@@ -16,7 +16,7 @@ description: "This is a post about the difference between UDP and TCP and use ca
 
 ## Introduction 
 
-As I have grown as a full stack developer, I have decided to learn about networkign and the infrastructure that makes up the basic abilities of users on the Internet. I'll start this exploration by exploring the differences between UDP and TCP IP protocols. 
+As I have grown as a full stack developer, I have decided to learn about networking and the infrastructure that makes up the basic abilities of users on the Internet. I'll start this exploration by exploring the differences between UDP and TCP IP protocols. 
 
 ## Definition 
 
@@ -47,4 +47,12 @@ On the other hand, UDP (UDP/IP) is faster than TCP and does not include the erro
         * gaming
 
 Now, you know the differences between UDP and TCP! 
+
+Sources: <br/><br/>
+
+<a href="https://www.lifewire.com/definition-of-protocol-network-817949">LifeWire</a><br/>
+
+<a href="https://app.pluralsight.com/player?course=computer-fundamentals-networking&author=vlad-catrinescu&name=bd53a2bc-6df3-4d16-a399-416c39ce65f7&clip=4&mode=live">PluralSight: Computer Fundamentals: Networking</a>
+
+
 
