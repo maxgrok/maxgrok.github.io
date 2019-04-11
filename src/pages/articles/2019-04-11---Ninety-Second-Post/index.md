@@ -15,7 +15,7 @@ description: "This is a post is about how to make a publish a package to NPM reg
 Today, we'll be going through how to publish an NPM package. It will be quick and easy! 
 We will be presuming you know basic npm and have node and npm and git installed. 
 
-## Follow these steps to build your first NPM package: 
+## To Build Your First NPM Package, Follow These Steps:
 
 (1) Create a git repository in a new folder by running `git init`. <br/>
 (2) Create a git repository on Github using the name of the package you want to create. (Go to Github.com and click 'Create a New Repository' in your user account. Google around for Github help if you have trouble.)<br/>
