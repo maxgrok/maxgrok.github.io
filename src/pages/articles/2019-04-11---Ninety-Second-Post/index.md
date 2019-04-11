@@ -38,5 +38,4 @@ To verify that your package was published:<br/>
 
 Source: <br/>
 
-<a href="https://app.pluralsight.com/library/courses/npm-playbook">NPM Playbook" by PluralSight.</a>
-
+<a href="https://app.pluralsight.com/library/courses/npm-playbook">"NPM Playbook"</a>by PluralSight.
