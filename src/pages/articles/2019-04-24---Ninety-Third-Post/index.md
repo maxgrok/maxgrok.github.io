@@ -1,6 +1,6 @@
 ---
 title: "How to Write Doctests in Elixir"
-date: "2019-04-24T20:44:13.121Z"
+date: "2019-04-25T07:30:13.121Z"
 layout: post
 draft: false
 path: "/posts/ninety-third-post/"
