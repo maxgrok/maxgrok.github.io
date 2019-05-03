@@ -1,6 +1,6 @@
 ---
 title: "Official Announcement: I've Joined SmartLogic!"
-date: "2019-05-02T09:42:13.121Z"
+date: "2019-05-03T09:22:13.121Z"
 layout: post
 draft: false
 path: "/posts/ninety-fifth-post/"
