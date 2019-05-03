@@ -13,7 +13,7 @@ description: "This is a post about how to use Postman to make a POST Github API 
 ---
 During this post, we will cover how to submit a POST request through Postman to the Github API in order to submit a new issue on a Github repo. <br>
 
-<img src="/postman.png" alt="PostmanLogo" /> <br>
+!["PostmanLogo"](postman.png) <br>
 First, download Postman <a href="https://www.getpostman.com/">here</a> and open it. <br>
 
 Second, select request from menu and then name your request anything your heart desires and save it in a folder. <br>

@@ -21,7 +21,7 @@ We mapped out the course of the project to do's with PivotalTracker such as maki
 
 First, I built out an XML file for the domain model. We have users, reservations, and listings. (See below)<br>
 
-<img src="/domain.png" alt="DomainModel"><br>
+<img src="./domain.png" alt="DomainModel"><br>
 
 Next, I got the JSON data for NYC, LA, and DC through the <a href="https://stevesie.com/apps/airbnb-api">Stevies Unofficial Airbnb API</a>, then passed it along to Jerry who created the models.  
 <br>
