@@ -1,14 +1,14 @@
 ---
 title: "Official Announcement: I've Joined SmartLogic!"
-date: "2019-05-03T09:22:13.121Z"
+date: "2019-05-05T10:22:13.121Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/ninety-fifth-post/"
 category: "SmartLogic"
 tags:
   - "SmartLogic"
   - "Job"
-description: "This is a post is joining SmartLogic and officially working on a dev team."
+description: "This is a post on joining SmartLogic and officially working on a dev team."
 ---
 
 ## News 
@@ -27,7 +27,7 @@ I heard back within 2 weeks with an official offer.
 
 I'm proud to say that I accepted it last week and started this week. I appreciate the fast moving efforts of Dan and Yair to help me join the team, as well as those who interviewed me, namely Chris, Justus, Dan, Yair, and Stephanie. 
 
-After grinding on learning for so long and working hard with my career coach at Flatiron School, Katie Zemel, with continued guidance by Avi Flombaum, as well as my dedicated, hard-working teachers, Rob, Niky, Andrew, Hillary, (insert name of TAs here), Sam, and various classmates (too many to name), I'm happy to start working on a team as a dev in my first job. 
+After grinding on learning for so long and working hard with my career coach at Flatiron School, Katie Zemel, with continued guidance by Avi Flombaum, as well as my dedicated, hard-working teachers, Rob, Niky, Andrew, Hillary, Sam, and various other classmates (too many to name) and TAs, I'm happy to start working on a team as a dev in my first job. 
 
 It's been quite a journey learning how to code and I will continue to hone my craft through these interesting projects. It's only been a couple of days, but I'm making it happen. It's been a real pleasure.
 
