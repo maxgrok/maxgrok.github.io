@@ -3,7 +3,7 @@
   "name": "gatsby-v2-starter-lumen",
   "description": "Simple starter for Gatsby",
   "main": "n/a",
-  "resolutions":{
+  "resolutions": {
     "sharp": "0.21.1"
   },
   "scripts": {
