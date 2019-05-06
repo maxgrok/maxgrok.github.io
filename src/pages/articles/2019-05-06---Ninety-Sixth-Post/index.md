@@ -16,6 +16,7 @@ My environment:
 RVM version 1.29.7
 Ruby version - any would reproduce this error. 
 OS X Mojave 
+Homebrew
 
 Over the weekend, I kept getting this error: 
 `ERROR:  While executing gem ... (Gem::Exception) Unable to require openssl, install OpenSSL and rebuild ruby (preferred) or use non-HTTPS sources`
@@ -26,7 +27,7 @@ At first, I went to the error url that was linked in the rest of the [error mess
 
 I kept Googling and found several options. 
 
-I'll go over the ones that didn't work for me. 
+I'll go over the one that didn't work for me and go over what did work.
 
 This [StackOverflow post](https://stackoverflow.com/questions/15511943/troubles-with-rvm-and-openssl) suggested the following: 
 ```
