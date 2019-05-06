@@ -15,6 +15,7 @@ My environment:
 
 RVM version 1.29.7
 Ruby version - any would reproduce this error. 
+OS X Mojave 
 
 Over the weekend, I kept getting this error: 
 `ERROR:  While executing gem ... (Gem::Exception) Unable to require openssl, install OpenSSL and rebuild ruby (preferred) or use non-HTTPS sources`
