@@ -122,7 +122,7 @@ end
 Congratulations your Sidekiq Worker now sends email daily! 
 Where ever you call your Sidekiq Worker, you will send an email daily in the future.
 
-<h2>Resources: </h2> <br><br>
+<h2>Resources: </h2> <br>
 
 <a href="https://guides.rubyonrails.org/action_mailer_basics.html">Ruby on Rails Guides: ActionMailer</a><br>
 
