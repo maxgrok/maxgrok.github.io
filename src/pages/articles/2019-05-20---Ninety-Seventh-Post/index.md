@@ -19,7 +19,7 @@ Let's run `rails generate mailer InsertMailerName` in the command line in the ro
 
 This will create the following output in your terminal (minus the 'identical' files, it will just say created then the file name): 
 
-![mailer]('./screenshot.png')
+![mailer](screenshot.png)
 
 
 
@@ -63,7 +63,7 @@ Let's make a new worker by running `rails g sidekiq:worker NameOfWorker`.
 
 You will see the following files created: 
 
-![worker-creation]('./screenshot(1).png)
+![worker-creation](screenshot(1).png)
 
 Go to `app/workers/name_of_worker_worker.rb`
 
