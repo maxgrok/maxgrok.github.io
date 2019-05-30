@@ -12,7 +12,7 @@ path: "/press"
    <div class="right"><strong>Rachel Simpson<br /></strong><strong>MD/PhD candidate, </strong><strong>SUNY Buffalo</strong></div>
 <div>
 
-<p>For inquiries, please contact <a href="mailto:max.goodman@flatironschool.com">me</a>.</p>
+<p>For inquiries, please contact <a href="mailto:max@smartlogic.io">me</a>.</p>
 
 <h2 class="header">Past Press</h2>
 <!-- SIL Medium Article -->

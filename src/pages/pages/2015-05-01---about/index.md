@@ -30,13 +30,26 @@ I develop web apps from scratch using the following tools and languages and fram
 
 <h2 >Timeline</h2>
 <ul class="timeline">
+<li style="list-style-type: none;">
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="img"></span>
+				<span class="flag"><strong>Developer.</strong></span>
+				<span class="flag">SmartLogic</span><br>
+				<span style="text-align:right;">April 2019 - <strong>Present</strong></span></span>
+			</div><br>
+			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">Ruby on Rails. Sidekiq. PostgresQL. HTML5/CSS3. &more.</div>
+			<div><div class="desc" style="text-align:right;">Developing applications for various clients.</div></div>
+		</div>
+	</li>
+	<hr/>
 	<li style="list-style-type: none;">
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="img"></span>
 				<span class="flag"><strong>Founder.</strong></span>
 				<span class="flag">atRest</span><br>
-				<span style="text-align:right;">June 2018 - <strong>Present</strong></span></span>
+				<span style="text-align:right;">June 2018 - <strong>April 2019</strong></span></span>
 			</div><br>
 			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">Ruby on Rails. React. PostgresQL. HTML5/CSS3.</div>
 			<div><div class="desc" style="text-align:right;">Incorporating knowledge from YC Startup School and Flatiron School - DC to bring housing to your friends.</div></div>

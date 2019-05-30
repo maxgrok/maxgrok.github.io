@@ -5,8 +5,8 @@ path: "/companies"
 ---
 <h2>Companies</h2>
 
-<strong>atRest.</strong> <em>2018-Present</em><br />
-<a href="http://www.hosthome.help">atrest.us/</a></p>
+<strong>atRest.</strong> <em>June 2018 - April 2019</em><br />
+<a href="http://www.atrest.us">atrest.us/</a></p>
 <p>A peer-to-peer housing network for your friends, powered by your friends.</p><hr>
 <strong>HostHome, Benefit Corporation.</strong> <em>June 2017-June 2018</em><br />
 <a href="http://www.hosthome.help">hosthome.help/</a></p>
