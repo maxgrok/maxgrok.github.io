@@ -8,6 +8,8 @@ path: "/talks"
 <h3 class="header">Future Talks</h3>
 
 <strong>TBA</strong>
+<strong>Out in Tech: Trek to Tech</strong>. <em>June 12th, 2019</em>.<br>Flatiron School DC, 1440 G St. NW, Washington, DC.. <br />Talk: <a href="/">Coming Soon</a>.
+
 <hr>
 
 <h3 class="header">Past Talks</h3>
