@@ -11,4 +11,5 @@ tags:
   - "Coding School"
 description: "This is a post about my tech talk at Flatiron School on Websockets, specifically ActionCable."
 ---
-<div style="position:relative;width:100%;height:0;padding-bottom:calc(56.25% + 40px);"><iframe allowfullscreen style="position:absolute; width: 100%; height: 100%;border: solid 1px #333;" src="https://www.beautiful.ai/player/-LB1t7kIHmDTPyzH1RWd/My-First-Presentation"/></div>
+<figure class="video_container">
+<div style="position:relative;width:100%;height:0;padding-bottom:calc(56.25% + 40px);"><iframe allowfullscreen style="position:absolute; width: 100%; height: 100%;border: solid 1px #333;" src="https://www.beautiful.ai/player/-LB1t7kIHmDTPyzH1RWd/My-First-Presentation"/></div></figure>
