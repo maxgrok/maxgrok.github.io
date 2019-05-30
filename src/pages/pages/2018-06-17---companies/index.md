@@ -5,6 +5,10 @@ path: "/companies"
 ---
 <h2>Companies</h2>
 
+
+<strong>SmartLogic.</strong> <em>April 2019 - Present</em><br />
+<a href="http://www.smartlogic.io/">smartlogic.io/</a></p>
+<p>We build custom mobile and web applications.</p><br/>
 <strong>atRest.</strong> <em>June 2018 - April 2019</em><br />
 <a href="http://www.atrest.us">atrest.us/</a></p>
 <p>A peer-to-peer housing network for your friends, powered by your friends.</p><hr>
