@@ -2,7 +2,7 @@
 title: "Testing a Sidekiq Worker"
 date: "2019-06-04T9:30:13.121Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/ninety-nineth-post/"
 category: "Sidekiq"
 tags:
