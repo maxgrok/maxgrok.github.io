@@ -1,6 +1,6 @@
 ---
-title: "Testing a Sidekiq Worker"
-date: "2019-06-04T9:30:13.121Z"
+title: "How to Test a Sidekiq Worker"
+date: "2019-06-04T09:30:13.121Z"
 layout: post
 draft: false
 path: "/posts/ninety-nineth-post/"
