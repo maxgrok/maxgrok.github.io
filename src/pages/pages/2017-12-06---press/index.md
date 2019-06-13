@@ -15,6 +15,15 @@ path: "/press"
 <p>For inquiries, please contact <a href="mailto:max@smartlogic.io">me</a>.</p>
 
 <h2 class="header">Past Press</h2>
+
+<!-- Flatiron School Blog Post For Pride -->
+<a href="http://bit.ly/2WCSxs1">
+    <h3 class ="presstitle">Flatiron School | Blog</h3>
+
+<div class = "grid-x">
+    <p class = "cell large-15 small-15">Celebrating Pride with  These Changemakers Breaking Down Barriers in Tech</p>
+    <p class = "date cell large-5 small-5">June 11, 2019</p>
+</div>
 <!-- SIL Medium Article -->
 <a href = "https://bit.ly/2HJIF9W">
     <h3 class = "presstitle">Social Innovation Lab at Johns Hopkins University</h3>
