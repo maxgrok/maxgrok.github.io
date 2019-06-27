@@ -9,7 +9,7 @@ tags:
   - "Pragma"
   - "Social Impact"
   - "Fundraising"
-description: "This is a post introducing Pragma, SmartLogic, and the future of help."
+description: "This is a post introducing Pragma and the future of help."
 ---
 
 ## On Starting Pragma 
