@@ -16,11 +16,7 @@ description: "This is a post introducing Pragma and the future of help."
 
 It's the second official day of Pragma and I couldn't be more excited about changing the way that help works in Baltimore and beyond. 
 
-I have recently stopped working with SmartLogic. After 2.5 months, it became mutual to part ways. I learned a great bit working with SmartLogic like Sidekiq, testing, and a look at a 8 years old application in Rails and React. I also rubbed elbows with some incredibly smart people. However, I've decided that what I ultimately want to do is be starting and running Pragma. 
-
-Within 24 hours of our mutual parting, I decided to launch Pragma, which is a Yelp! for help. 
-
-I am mapping out free and low-cost resources in Baltimore and beyond and making them available to people to review these services. It's essentially an online Zagat for helping organizations. 
+Pragma is mapping out free and low-cost resources in Baltimore and beyond and making them available to people to review these services. It's essentially an online Zagat for helping organizations. 
 
 ## The Problem 
 
