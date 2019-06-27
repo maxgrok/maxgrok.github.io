@@ -2,7 +2,7 @@
 title: "On Pragma"
 date: "2019-06-27T14:00:13.121Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/one-hundred-and-third-post/"
 category: "Pragma"
 tags:
