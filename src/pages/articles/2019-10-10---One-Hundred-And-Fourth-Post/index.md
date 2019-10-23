@@ -11,7 +11,7 @@ tags:
 description: "This is a post on what I learned building and failing with Pragma and my future moving forward."
 ---
 
-## The Past 5 Months: Morale, Minimal Viable Product, and Autopsy Report
+## The Past 5 Months: Learnings
 
 Something that no one ever told me was that being a solo founder requires creating intermittent reinforcement and rewards for what you are accomplishing. It requires building systems of behavior in even the most minute ways to ensure that you are moving forward and not stagnating. 
 
