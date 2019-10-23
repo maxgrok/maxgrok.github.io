@@ -1,5 +1,5 @@
 ---
-title: "Pragma Update"
+title: "Pragma && The Future"
 date: "2019-10-23T14:29:13.121Z"
 layout: post
 draft: false
