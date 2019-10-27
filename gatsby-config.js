@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://maxgrok.netlify.com',
+    url: 'https://www.maxgrok.com',
     title: 'Blog by Max Goodman',
     subtitle:
       'founder && full stack && ethereum developer.',
