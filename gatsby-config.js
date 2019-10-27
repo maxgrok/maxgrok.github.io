@@ -3,6 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
+    siteUrl:"https://www.maxgrok.com",
     url: 'https://www.maxgrok.com',
     title: 'Blog by Max Goodman',
     subtitle:
@@ -68,7 +69,7 @@ module.exports = {
           {
             site {
               siteMetadata {
-                site_url: url
+                url: url
                 title
                 description: subtitle
               }
@@ -156,6 +157,7 @@ module.exports = {
             {
               site {
                 siteMetadata {
+                  siteUrl
                   url
                 }
               }
