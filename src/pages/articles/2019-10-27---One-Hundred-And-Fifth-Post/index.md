@@ -14,7 +14,7 @@ description: "This is a post about what bitwise operators are in Solidity."
 
 ## What is a Bitwise Operator? 
 
-<code>
+```js
  // Bitwise Operators
     // & Bitwise AND 
     // | Bitwise OR 
@@ -22,4 +22,7 @@ description: "This is a post about what bitwise operators are in Solidity."
     // ~ Bbitwise negation
     // >> Bitwise right shift
     // << Bitwise left shift
-    </code>
+```
+
+    (Source: https://www.blockchain-council.org/solidity/operators-arithmetic-logical-bitwise/)
+
