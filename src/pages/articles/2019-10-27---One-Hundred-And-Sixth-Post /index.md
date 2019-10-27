@@ -1,5 +1,5 @@
 ---
-title: "Solidity: Bitwise Operators"
+title: "Gatsby: Sharp Package Install Issue"
 date: "2019-10-27T09:29:13.121Z"
 layout: post
 draft: false
