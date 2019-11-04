@@ -19,10 +19,11 @@ description: "This is a post about what bitwise operators are in Solidity."
     // & Bitwise AND 
     // | Bitwise OR 
     // ^ Bitwise exclusive OR 
-    // ~ Bbitwise negation
+    // ~ Bitwise negation
     // >> Bitwise right shift
     // << Bitwise left shift
 ```
+(Source: https://www.blockchain-council.org/solidity/operators-arithmetic-logical-bitwise/) 
 
-    (Source: https://www.blockchain-council.org/solidity/operators-arithmetic-logical-bitwise/)
+
 

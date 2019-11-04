@@ -3,7 +3,7 @@ title: "Gatsby: Sharp Package Install Issue"
 date: "2019-10-27T09:37:13.121Z"
 layout: post
 draft: false
-path: "/posts/one-hundred-and-sixth-post/"
+path: "/posts/one-hundred-and-fifth-post/"
 category: "Gatsby"
 tags:
   - "Debugging"
