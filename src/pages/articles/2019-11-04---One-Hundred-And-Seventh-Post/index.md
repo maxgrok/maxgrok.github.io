@@ -1,5 +1,5 @@
 ---
-title: "How to Create an Account and Get Test Ether with the tool Geth on the Rinkeby Test Network"
+title: "How to Create an Account and Get Test Ether with Geth on the Rinkeby Test Network"
 date: "2019-11-04T21:00:13.121Z"
 layout: post
 draft: false
