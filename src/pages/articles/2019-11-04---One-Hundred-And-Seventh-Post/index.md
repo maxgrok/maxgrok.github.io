@@ -52,11 +52,11 @@ Run the following in the CLI: <br/>
 
 ## Check Your Ether Account Balance
 
-Run `eth.getBalance(eth.accounts[0])` within the Geth CLI. 
+Run `eth.getBalance(eth.accounts[0])` within the Geth CLI. <br/>
 
 You should see the following (corresponding with how much Ether you picked):
 
-!["test ether results"](./test_ether_results.png)
+!["test ether results"](./test_ether_results.png)<br/>
 
 ## Potential Error
 
@@ -73,7 +73,7 @@ Try adding a peer to your node with this command:
 admin.addPeer("enode://05b03241bae2a17534a4ffa005d075e38868f89c6db95b0e089c67ff6d3e9ed3f7132d4e9d57f09628f4827cfb370fe5f624c36af44899e423aacf4869a3adf3@13.124.4.106:30303");
 ```
 
-Reference <a href="https://gist.github.com/rfikki/e2a8c47f4460668557b1e3ec8bae9c11">Gist</a>.
+Reference <a href="https://gist.github.com/rfikki/e2a8c47f4460668557b1e3ec8bae9c11">Gist</a>. <br/>
 
 ## SUCCESS!
 
