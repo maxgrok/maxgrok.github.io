@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://www.maxgrok.com',
     title: 'Blog by Max Goodman',
     subtitle:
-      'founder && full stack && ethereum developer.',
+      'full stack && ethereum developer.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
