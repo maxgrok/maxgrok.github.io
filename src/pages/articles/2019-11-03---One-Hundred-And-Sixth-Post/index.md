@@ -3,14 +3,13 @@ title: "Solidity: Bitwise Operators"
 date: "2019-10-27T09:29:13.121Z"
 layout: post
 draft: true
-path: "/posts/one-hundred-and-fifth-post/"
+path: "/posts/one-hundred-and-seventh-post/"
 category: "Ethereum"
 tags:
   - "Solidity"
   - "Bitwise Operators"
 description: "This is a post about what bitwise operators are in Solidity."
 ---
-
 
 ## What is a Bitwise Operator? 
 
