@@ -1,5 +1,5 @@
 ---
-title: "Solidity: Bitwise Operators"
+title: "Bitwise Operators in Solidity"
 date: "2019-11-11T07:52:13.121Z"
 layout: post
 draft: false
