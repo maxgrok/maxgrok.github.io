@@ -8,7 +8,7 @@ category: "Ethereum"
 tags:
   - "Solidity"
   - "Bitwise Operators"
-description: "This is a post about bitwise operators in Solidity."
+description: "This is a post about what bitwise operators are in Solidity."
 ---
 
 ## What is a Bitwise Operator? 
