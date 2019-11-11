@@ -3,7 +3,7 @@ title: "Solidity: Bitwise Operators"
 date: "2019-11-11T07:52:13.121Z"
 layout: post
 draft: false
-path: "/posts/one-hundred-and-seventh-post/"
+path: "/posts/one-hundred-and-sixth-post/"
 category: "Ethereum"
 tags:
   - "Solidity"
