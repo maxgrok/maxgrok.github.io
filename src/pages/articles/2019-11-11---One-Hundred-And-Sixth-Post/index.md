@@ -16,7 +16,7 @@ In 4 + 5, '4' and '5' are operands and the '+' is an operator. There are several
 
 Bitwise operators include the following...
 
-## Example of Bitwise Operators
+## Bitwise Operators and Example Use
 ```js
  // Bitwise Operators
     // & Bitwise AND 
