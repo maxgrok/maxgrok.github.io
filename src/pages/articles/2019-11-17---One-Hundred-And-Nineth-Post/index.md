@@ -21,7 +21,7 @@ It will explain to you the basics of Solidity and what gas is in relation to sma
 
 There are several strategies for saving and optimizing gas utility with Solidity smart contracts. I'm going to go over all of the ones I could find with a variety of sources like struct packing, variable packing, and more. 
 
-Why does saving gas do? Lets you spend less money executing smart contracts that you write and deploy to the Ethereum mainnet. 
+Why does saving gas do? It allows you to spend less ETH/money executing smart contracts that you write and deploy to the Ethereum mainnet. 
 
 ## What costs Gas? 
 
@@ -31,13 +31,16 @@ Here is a sample of what costs gas by opcode:
 
 ![opcodes-gas](./opcodes-gas.png) (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
-Let's get on with the strategies you can use to save gas! 
+All prices are in wei.
 
-## Use fixed arrays instead of dynamic arrays ( <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+For a frame of reference for how much this actually is in ETH, please visit this <a href="https://eth-converter.com/">ETH converter</a>. 
+# Strategies you can use to save gas:
+
+## (1) Use fixed arrays instead of dynamic arrays ( <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
 
 
-## Structs packing to save gas (Source: CryptoZombies)
+## (2) Structs packing to save gas (Source: CryptoZombies)
 
 Inside structs, smaller unsigned integers,like uint32, will save you gas and allow Solidity to store these variables together in less space. 
 
@@ -60,23 +63,23 @@ MiniMe mini = MiniMe(10, 20, 30);
 ```
 (Code source: <a href="https://cryptozombies.io/en/lesson/3/chapter/4">CryptoZombies Lesson 3: Advanced Solidity: Chapter 4: Gas</a>)
 
-## Variable Packing (Source: Will Shahda)
+## (3) Variable Packing (Source: Will Shahda)
 
   ### only occurs in storage. memory and call data will not be packed. 
 
-## Inheritance (Source: Will Shahda)
+## (4) Inheritance (Source: Will Shahda)
 
-## Initialization of variables (Source: Will Shahda)
+## (5) Initialization of variables (Source: Will Shahda)
 
-## Deletion (Source: Will Shahda)
+## (6) Deletion (Source: Will Shahda)
 
-## Storing data in events (Source: Will Shahda)
+## (7) Storing data in events (Source: Will Shahda)
 
-## Use Assembly Code (Source: Julien Klepatch)
+## (8) Use Assembly Code (Source: Julien Klepatch)
 
-## Turn on the Solidity optimizer (Source: Julien Klepatch)
+## (9) Turn on the Solidity optimizer (Source: Julien Klepatch)
 
-## Write literal values instead of computed ones (Source: Julien Klepatch)
+## (10) Write literal values instead of computed ones (Source: Julien Klepatch)
 
 ## Conclusion
 
@@ -84,9 +87,9 @@ There are a variety of methods that can be used to save and optimize gas usage i
 
 ## Sources/Further Reading on Optimizing Gas: 
 
-<a href="http://www.cryptozombies.io/en/course">CryptoZombies</a>
+<a href="http://www.cryptozombies.io/en/course">CryptoZombies by LOOM network</a>
 
-<a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Gas Optimization in Solidity Part I: Variables</a>
+<a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Gas Optimization in Solidity Part I: Variables by Will Shahda</a>
 
 <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">How to Write An Optimized Gas Cost Smart Contract? - Stackexchange </a>
 
