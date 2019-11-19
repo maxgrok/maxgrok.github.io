@@ -33,14 +33,14 @@ Here is a sample of what costs gas by opcode:
 
 All prices are in wei.
 
-For a frame of reference for how much this actually is in ETH, please visit this <a href="https://eth-converter.com/">ETH converter</a>. 
+For a frame of reference for how much this actually is in ETH, please visit this <a href="https://eth-converter.com/">ETH converter</a>.
 # Strategies you can use to save gas:
 
-## (1) Use fixed arrays instead of dynamic arrays ( <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+## (1) Use fixed arrays instead of dynamic arrays (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
 
 
-## (2) Structs packing to save gas (Source: CryptoZombies)
+## (2) Use structs packing (Source: CryptoZombies)
 
 Inside structs, smaller unsigned integers,like uint32, will save you gas and allow Solidity to store these variables together in less space. 
 
