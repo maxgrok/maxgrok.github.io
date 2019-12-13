@@ -19,7 +19,7 @@ It will explain to you the basics of Solidity and what gas is in relation to sma
 
 ## Strategies for Saving/Optimizing Gas
 
-There are several strategies for saving and optimizing gas utility with Solidity smart contracts. I'm going to go over all of the ones I could find with a variety of sources like struct packing, variable packing, and more. 
+There are several strategies for saving and optimizing gas utility with Solidity smart contracts. I'm going to go over a couple I could find with a variety of sources namely struct packing and variable packing, as well as list more you can research on your own. 
 
 Why does saving gas do? It allows you to spend less ETH/money executing smart contracts that you write and deploy to the Ethereum mainnet. 
 
@@ -34,14 +34,10 @@ Here is a sample of what costs gas by opcode:
 All prices are in wei.
 
 For a frame of reference for how much this actually is in ETH, please visit this <a href="https://eth-converter.com/">ETH converter</a>.
-# Strategies you can use to save gas:
 
-## (1) Use fixed arrays instead of dynamic arrays (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+# Struct Packing and Variable Packing Strategies:
 
-
-
-
-## (2) Use structs packing (Source: CryptoZombies)
+## (1) Use structs packing (Source: <a href="https://cryptozombies.io/en/lesson/3/chapter/4">CryptoZombies</a>)
 
 Inside structs, smaller unsigned integers,like uint32, will save you gas and allow Solidity to store these variables together in less space. 
 
@@ -64,27 +60,51 @@ MiniMe mini = MiniMe(10, 20, 30);
 ```
 (Code source: <a href="https://cryptozombies.io/en/lesson/3/chapter/4">CryptoZombies Lesson 3: Advanced Solidity: Chapter 4: Gas</a>)
 
-## (3) Variable Packing (Source: Will Shahda)
+## (1) Variable Packing (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
   ### only occurs in storage. memory and call data will not be packed. 
 
-## (4) Inheritance (Source: Will Shahda)
+Each storage slot has 32 bytes(256 bits) in Solidity. In order to pack variables, we need to arrange them in a way that they fit in a single slot because each slot costs gas. 
 
-## (5) Initialization of variables (Source: Will Shahda)
+Unpacked variables: 
+  ```javascript
+  uint128 a;
+  uint256 b;
+  uint128 c;
+  ```
+(source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda Article</a>)
 
-## (6) Deletion (Source: Will Shahda)
+Packed variables: 
+  ```javascript
+  uint128 a;
+  uint128 c;
+  uint256 b;
+  ```
+(source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda Article</a>)
 
-## (7) Storing data in events (Source: Will Shahda)
+The second example is packed because it groups together uint a and c to add up to 256, which means it will only take up one slot, instead of the 3 slots it would have taken in the previous example. 
 
-## (8) Use Assembly Code (Source: Julien Klepatch)
+## More techniques to save gas:
+## (1) Inheritance (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (9) Turn on the Solidity optimizer (Source: Julien Klepatch)
+## (2) Initialization of variables (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (10) Write literal values instead of computed ones (Source: Julien Klepatch)
+## (3) Deletion (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+
+## (4) Storing data in events (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+
+## (5) Use Assembly Code (Source: Julien Klepatch)
+
+## (6) Turn on the Solidity optimizer (Source: Julien Klepatch)
+
+## (7) Write literal values instead of computed ones (Source: Julien Klepatch)
+
+## (8) Use fixed arrays instead of dynamic arrays (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+
 
 ## Conclusion
 
-There are a variety of methods that can be used to save and optimize gas usage in Solidity smart contracts. Hopefully, this post has given you a synthesis of all the strategies available right now and the knowledge to be able to implement them as well.  
+There are a variety of methods that can be used to save and optimize gas usage in Solidity smart contracts. Hopefully, this post has given you a good starting point to explore all the strategies available right now and the knowledge to be able to implement them as well.  
 
 ## Sources/Further Reading on Optimizing Gas: 
 
