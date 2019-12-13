@@ -1,6 +1,6 @@
 ---
-title: "How to Save Gas in Solidity"
-date: "2019-11-17T08:18:13.121Z"
+title: "Save Gas with Packing in Solidity"
+date: "2019-12-13T08:18:13.121Z"
 layout: post
 draft: false
 path: "/posts/one-hundred-and-nineth-post/"
@@ -29,7 +29,7 @@ For information on what exactly costs gas, please look at the <a href="https://d
 
 Here is a sample of what costs gas by opcode:
 
-![opcodes-gas](./opcodes-gas.png) (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+![opcodes-gas](opcodes-gas.png) (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
 All prices are in wei.
 
