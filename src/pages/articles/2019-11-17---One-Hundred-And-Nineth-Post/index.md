@@ -59,7 +59,7 @@ MiniMe mini = MiniMe(10, 20, 30);
 ```
 (Code source: <a href="https://cryptozombies.io/en/lesson/3/chapter/4">CryptoZombies Lesson 3: Advanced Solidity: Chapter 4: Gas</a>)
 
-## (1) Variable Packing (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+## (2) Variable Packing (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
   ### only occurs in storage. memory and call data will not be packed. 
 
@@ -84,21 +84,21 @@ Packed variables:
 The second example is packed because it groups together uint a and c to add up to 256, which means it will only take up one slot, instead of the 3 slots it would have taken in the previous example. 
 
 ## More techniques to save gas:
-## (1) Inheritance (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+### (1) Inheritance (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (2) Initialization of variables (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+### (2) Initialization of variables (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (3) Deletion (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+### (3) Deletion (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (4) Storing data in events (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
+### (4) Storing data in events (Source: <a href="https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde">Will Shahda</a>)
 
-## (5) Use Assembly Code (Source: Julien Klepatch)
+### (5) Use Assembly Code (Source: Julien Klepatch)
 
-## (6) Turn on the Solidity optimizer (Source: Julien Klepatch)
+### (6) Turn on the Solidity optimizer (Source: Julien Klepatch)
 
-## (7) Write literal values instead of computed ones (Source: Julien Klepatch)
+### (7) Write literal values instead of computed ones (Source: Julien Klepatch)
 
-## (8) Use fixed arrays instead of dynamic arrays (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+### (8) Use fixed arrays instead of dynamic arrays (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
 
 ## Conclusion
