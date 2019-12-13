@@ -28,8 +28,7 @@ Why does saving gas do? It allows you to spend less ETH/money executing smart co
 For information on what exactly costs gas, please look at the <a href="https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit#gid=0">Yellow Paper Excel Breakdown of Gas Costs by Opcode</a>. This paper breaks down exact gas costs by operation code such as ADD for addition and SUB for subtraction. Each opcode corresponds to an operation that you can execute in a Solidity smart contract.  
 
 Here is a sample of what costs gas by opcode:
-
-![opcodes-gas](opcodes-gas.png) (Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
+Source: <a href="https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract">Stackexchange</a>)
 
 All prices are in wei.
 
