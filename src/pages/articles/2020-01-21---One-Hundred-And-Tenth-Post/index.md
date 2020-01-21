@@ -11,8 +11,9 @@ tags:
   - "Truffle"
 description: "This is a post about how to use truffle-hdwallet-provider to deploy Solidity smart contracts to the Rinkeby testnet or Mainnet."
 ---
+Here is a short post on how to setup your truffle-config.js file for deploying to Rinkeby testnet and/or the Ethereum mainnet. It does not, like my other post, use BuddyCI. 
 
-Pre-requisites: Truffle project with Solidity smart contracts all ready to be deployed. Infura project ID. Metamask. Rinkeby testnet Ether or mainnet Ether.  
+<em>Pre-requisites</em>: Truffle project with Solidity smart contracts all ready to be deployed. Infura project ID. Metamask. Rinkeby testnet Ether or mainnet Ether.  
 
 First, within your project directory, use npm to install truffle-hdwallet-provider with `npm install truffle-hdwallet-provider --save-dev` command. 
 
