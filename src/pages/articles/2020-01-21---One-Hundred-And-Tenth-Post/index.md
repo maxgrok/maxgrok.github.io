@@ -1,6 +1,6 @@
 ---
 title: "How to Deploy to Rinkeby or Mainnet w/ Truffle"
-date: "2020-01-21T14:00:13.121Z"
+date: "2020-01-21T15:00:13.121Z"
 layout: post
 draft: false
 path: "/posts/one-hundred-and-tenth-post/"
