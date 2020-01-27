@@ -1,6 +1,6 @@
 ---
 title: "How to Integrate Truffle with Rails 6"
-date: "2020-01-22T18:00:13.121Z"
+date: "2020-01-26T18:00:13.121Z"
 layout: post
 draft: false
 path: "/posts/one-hundred-and-eleventh-post/"
