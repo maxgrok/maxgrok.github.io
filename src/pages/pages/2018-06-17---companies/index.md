@@ -20,7 +20,7 @@ path: "/companies"
 <a href="http://www.hosthome.help">hosthome.help/</a></p>
 <p>A sliding-scale, accessible home sharing platform starting in the LGBT community</p>
 <hr>
-<strong>Gryd, Inc.</strong> <em>2011-Present</em><br />
+<strong>Gryd, Inc.</strong> <em>2011-2019</em><br />
 <a href="http://www.grydit.com">grydit.com/</a>
 <p>A free and low-cost resource directory starting in Baltimore.</p>
 <hr>
