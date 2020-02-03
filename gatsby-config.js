@@ -36,6 +36,10 @@ module.exports = {
         path: '/press'
       },
       {
+        label: "Education",
+        path:'/edu'
+      },
+      {
         label: 'About me',
         path: '/about'
       },
