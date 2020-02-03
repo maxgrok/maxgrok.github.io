@@ -5,8 +5,11 @@ path: "/companies"
 ---
 <h2>Companies</h2>
 
-
-<strong>SmartLogic.</strong> <em>April 2019 - Present</em><br />
+<strong>Pragma.</strong> <em>June 2019 - November 2019</em><br />
+<a href="http://www.smartlogic.io/">pragmaco.app/</a></p>
+<p>Making the world more helpful.</p><br/>
+<hr/>
+<strong>SmartLogic.</strong> <em>April 2019 - June 2019</em><br />
 <a href="http://www.smartlogic.io/">smartlogic.io/</a></p>
 <p>We build custom mobile and web applications.</p><br/>
 <hr/>

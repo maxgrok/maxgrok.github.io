@@ -5,6 +5,16 @@ path: "/code"
 ---
 <h2>Code</h2>
 
+<h3>Blockchain/Dapps</h3>
+
+<strong>Proof of Existence DApp</strong><br>Built with React, Truffle, and Solidity<br> <a href="http://www.github.com/maxgrok/notary-Dapp-rinkeby">GitHub Repo</a><br /> <em style="text-align:right;">2020</em><br>
+
+<strong>Event Tickets Smart Contract</strong><br>Built with Solidity<br> <a href="http://www.github.com/maxgrok/event-tickets-contracts">GitHub Repo</a><br /> <em style="text-align:right;">2020</em><br>
+
+<strong>Lottery (Solidity/Node.js)</strong><br>Built with Soldiity, Solc, and Node.js<br> <a href="http://www.github.com/maxgrok/lottery-solidity-node">GitHub Repo</a><br /> <em style="text-align:right;">2019</em><br>
+
+<strong>Lottery (Front End)</strong><br>Built with React<br> <a href="http://www.github.com/maxgrok/lottery-dapp">GitHub Repo</a><br /> <em style="text-align:right;">2019</em><br>
+
 <h3>Prototypes & Clones </h3>
 
 <strong>Hackernews Clone</strong><br>Built with React & GraphQL & Apollo & Prisma<br> <a href="http://www.github.com/hackernews-react-apollo-fullstack">GitHub Repo</a><br /> <em style="text-align:right;">2018</em><br>
