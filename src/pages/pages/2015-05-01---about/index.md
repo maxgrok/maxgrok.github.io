@@ -34,9 +34,34 @@ I develop web apps from scratch using the following tools and languages and fram
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="img"></span>
+				<span class="flag"><strong>Student.</strong></span>
+				<span class="flag">Consensys Academy Blockchain Developer Bootcamp</span><br>
+				<span style="text-align:right;">October 2019 - <strong>February 2020</strong></span></span>
+			</div><br>
+			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">web3.js, React, Solidity, Truffle..</div>
+			<div><div class="desc" style="text-align:right;">Developing smart contracts and Dapps.</div></div>
+		</div>
+	</li>
+<li style="list-style-type: none;">
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="img"></span>
+				<span class="flag"><strong>Founder/CEO.</strong></span>
+				<span class="flag">Pragma</span><br>
+				<span style="text-align:right;">June 2019 - <strong>October 2019</strong></span></span>
+			</div><br>
+			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">Making the world more helpful.</div>
+			<div><div class="desc" style="text-align:right;">Developing an MVP.</div></div>
+		</div>
+	</li>
+	<hr/>
+<li style="list-style-type: none;">
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="img"></span>
 				<span class="flag"><strong>Developer.</strong></span>
 				<span class="flag">SmartLogic</span><br>
-				<span style="text-align:right;">April 2019 - <strong>Present</strong></span></span>
+				<span style="text-align:right;">April 2019 - <strong>June 2019</strong></span></span>
 			</div><br>
 			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">Ruby on Rails. Sidekiq. PostgresQL. HTML5/CSS3. &more.</div>
 			<div><div class="desc" style="text-align:right;">Developing applications for various clients.</div></div>
