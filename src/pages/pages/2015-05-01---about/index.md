@@ -11,22 +11,9 @@ path: "/about"
 I develop web apps from scratch using the following tools and languages and frameworks.   
 
 + **Mockup/Design Tools:** Balsamiq, InvisionApp, Photoshop, GIMP
-+ **Styling:** CSS3
-+ **Development:** Atom, Sublime Text, CLI, Git, SourceTree, Pivotal Tracker
-+ **Languages:** Javascript ES6, Ruby, HTML5, CSS3, SQL
-+ **Frameworks:** Ruby on Rails, Bootstrap
-+ **APIs:** Twilio
-
-*I am currently reading 'Rails 5 Way' by Obie Fernandez && 'Object-Oriented Programming in Ruby' by Sandi Metz.*
-
-## Learning
-
-+ **Mockup/Design Tools:** Sketch
-+ **Styling:** SASS/SCSS
-+ **Development:** Vim
-+ **Languages:** Elixir
-+ **Frameworks:** React, Phoenix
-+ **APIs:** Stripe
++ **Development:** Atom, Sublime Text, CLI, Git, SourceTree, Pivotal Tracker, Atlassian Confluence/JIRA
++ **Languages:** Javascript, Ruby, HTML5, CSS3, SQL, postgresql
++ **Frameworks:** Ruby on Rails, React.js, Bootstrap, Semantic UI
 
 <h2 >Timeline</h2>
 <ul class="timeline">
