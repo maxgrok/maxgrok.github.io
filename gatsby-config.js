@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://www.maxgrok.com',
     title: 'Max\'s Blog',
     subtitle:
-      'full stack && blockchain engineer.',
+      'Full Stack Dapp && Smart Contract Engineer.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
