@@ -1,6 +1,6 @@
 # Readme
 
-This is Max's blog built with Gatsby v2 and the Lumen Gatsby Starter
+This is Max's blog customized and built with Gatsby v2 and the Lumen Gatsby Starter.
 
 # Lumen
 
