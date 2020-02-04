@@ -11,4 +11,4 @@ path: "/edu"
 
 <h3>Past</h3>
 
-<strong>University of Rochester. <em>International Social Entrepreneurship.</strong><br>Student.<br><br /> <em style="text-align:right;">Graduated 2012.</em><br>
+<strong>University of Rochester.</strong><br>International Social Entrepreneurship.<br><br /> <em style="text-align:right;">2012.</em><br>
