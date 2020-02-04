@@ -7,7 +7,7 @@ path: "/edu"
 
 <h3>Most Recent</h3>
 
-<strong>Consensys Academy Blockchain Developer Bootcamp</strong><br>Student.<br><br /> <em style="text-align:right;">October 2019 - February 2020</em><br>
+<strong>Consensys Academy Blockchain Developer Bootcamp</strong><br>Web3.js, Solidity, Truffle, Geth, Ganache,and more.<br><br /> <em style="text-align:right;">October 2019 - February 2020</em><br>
 
 <h3>Past</h3>
 
