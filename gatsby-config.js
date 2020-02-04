@@ -50,7 +50,7 @@ module.exports = {
     ],
     author: {
       name: 'Max Goodman',
-      email: 'max@atrest.us',
+      email: 'max@maxgrok.com',
       // telegram: '#',
       twitter: '@maxxgrok',
       github: 'maxgrok',
