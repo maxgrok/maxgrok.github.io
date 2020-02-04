@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     siteUrl:"https://www.maxgrok.com",
     url: 'https://www.maxgrok.com',
-    title: 'Max',
+    title: 'Max\'s Blog',
     subtitle:
       'full stack && blockchain engineer.',
     copyright: '© All rights reserved.',
