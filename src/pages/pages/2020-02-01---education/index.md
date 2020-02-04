@@ -11,7 +11,7 @@ path: "/edu"
 
 <h3>Past</h3>
 
-<strong>YC Startup School.</strong><br><br><br /> <em style="text-align:right;">2019.</em><br>
+<strong>YC Startup School.</strong><br>Tech Startups, Sales, Marketing, and more.<br><br /> <em style="text-align:right;">2019.</em><br>
 
 <strong>Blockgeeks.</strong><br>Intro to Building Dapps.<br><br /> <em style="text-align:right;">2019.</em><br>
 
@@ -23,7 +23,7 @@ path: "/edu"
 
 <strong>Blockgeeks.</strong><br>Intro to Ethereum.<br><br /> <em style="text-align:right;">2018.</em><br>
 
-<strong>YC Startup School.</strong><br><br><br /> <em style="text-align:right;">2018.</em><br>
+<strong>YC Startup School.</strong><br>Tech Startups, Sales, Marketing, and more.<br><br /> <em style="text-align:right;">2018.</em><br>
 
 <strong>Flatiron School.</strong><br>Ruby on Rails, Javascript, React,Sinatra, SQLite, and more.<br><br /> <em style="text-align:right;">August 2018.</em><br>
 
