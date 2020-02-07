@@ -33,7 +33,7 @@ Unfortunately, I heard back that the scholarship deadline had passed in December
 
 I started a Tweet to raise money. Within 30 minutes, I had $115 in my Venmo pocket out of the $500 I needed to get to Denver and back. Great start! 
 
-I asked a Twitter friend, Alex Masmej, in his DMs if he could contribute and introduced me to the idea of <a href="">@RocketNFT</a>, (NFT stands for non-fungible tokens) being used to leverage loans. He'd be willing to loan me the money as long as he got a NFT in return with details of the loan in the description of the NFT. 
+I asked a Twitter friend, Alex Masmej, in his DMs if he could contribute and introduced me to the idea of <a href="https://twitter.com/RocketNFT">@RocketNFT</a>, (NFT stands for non-fungible tokens) being used to leverage loans. He'd be willing to loan me the money as long as he got a NFT in return with details of the loan in the description of the NFT. 
 
 We spent most of the night trying to mint the NFT and negotiating terms.
 
