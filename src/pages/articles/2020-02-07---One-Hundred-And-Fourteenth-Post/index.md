@@ -16,13 +16,13 @@ description: "This is a post about how I used NFTs and donations to fund my trip
 I just graduated from Consensys Academy Blockchain Developer Bootcamp and am actively searching for a tech position, preferrably Full Stack, Dapp, or Smart Contract Engineering, but flexible for awesome teams. 
 
 </em><Br/>
-<strong>TLDR;</strong> <br/>I minted an NFT to use for a 
-loan for the remainder of my trip to ETH Denver for $385, after raising $115 in 30 minutes via Twitter and Telegram.  
+<strong>TLDR;</strong> <br/>I minted an NFT from <a href="https://twitter.com/RocketNFT">@RocketNFT</a> to use for a 
+loan for the remainder of my trip to ETH Denver for $385, after raising $115 (from Lee Lara and Cas Patterson) in 30 minutes via Twitter and Telegram.  
  </em>
 
 ## The Story
 
-Last night, I was wondering how I could get to ETH Denver. I don't have a lot of money right now, much less for cross-country travel, plus I only heard about the conference because I was invited to Pepo (the official app of ETH Denver for social) by one of the founders due to a mysterious recommendation. I looked it up at <a href="http://www.ethdenver.com/"> ETH Denver site</a>. 
+Last night, I was wondering how I could get to ETH Denver. I don't have a lot of money right now, much less for cross-country travel, plus I only heard about the conference because I was invited to <a href="https://pepo.com/">Pepo </a>(the official app of ETH Denver for social) by one of the founders due to a mysterious recommendation. I looked it up at <a href="http://www.ethdenver.com/"> ETH Denver site</a>. 
 
 It looked, to me, like a great opportunity to connect with many other ETH folks in the space, which is just what I'm looking to do. I just needed to figure out how to get there and back! 
 
