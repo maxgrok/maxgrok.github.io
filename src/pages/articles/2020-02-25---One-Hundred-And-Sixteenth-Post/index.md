@@ -3,7 +3,7 @@ title: "ETHCC"
 date: "2020-02-23T11:48:13.121Z"
 layout: post
 draft: true
-path: "/posts/one-hundred-and-fifteenth-post/"
+path: "/posts/one-hundred-and-sixteenth-post/"
 category: "ETHCC"
 tags:
   - "ETHCC"
@@ -13,7 +13,7 @@ tags:
 description: "ETHCC."
 ---
 <em>
-I just graduated from Consensys Academy Blockchain Developer Bootcamp and am actively searching for funding for my new startup, DeLance, and/or a tech position, preferrably Full Stack, Dapp, or Smart Contract Engineering. I'm flexible for awesome teams with meaningful work.
+I just graduated from Consensys Academy Blockchain Developer Bootcamp and am actively searching for funding for my new startup, <a href="http://www.delance.app/">DeLance</a>, and/or a tech position, preferrably Full Stack, Dapp, or Smart Contract Engineering. I'm flexible for awesome teams with meaningful work.
 
 </em><Br/>
 <strong>TLDR;</strong> <br/>My trip to ETHCC was made possible by Maple.loans and RocketNFT. I borrowed at the same rate that I borrowed before.  
