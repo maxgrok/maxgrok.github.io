@@ -42,7 +42,7 @@ I didn't have as much of a concrete plan and oftentimes found myself overstimula
 ## Meeting The Person Who Took the Risk On Me
 
 Alex was up on stage at ETH Denver by the time I arrived. I'd seen his picture and was pretty sure it was him atleast. I ended up sitting down next to a member of MetaCartel on a sofa when I first arrived. We chatted and I revealed I used NFTs to get to the conference. They revealed they were in MetaCartel. I still didn't know quite what that meant at the time, but was bullish on DAOs. 
-After the panel was over, I think she (whose name I am blanking on I'm bad with names, but good with faces and stories) must have told Alex I was there and what I looked like because next thing I know. I see Alex after having walked away to do something adn come back to the similar spot in the lobby area and there he was, smiling wicked, and we hugged after I introduced myself. 
+After the panel was over, I think she (whose name I am blanking on I'm bad with names, but good with faces and stories) must have told Alex I was there and what I looked like because, next thing I know, I see Alex after having walked away to do something adn come back to the similar spot in the lobby area and there he was, smiling wicked, and we hugged after I introduced myself. 
 
 It was the first time I'd met Alex in person. I'd contacted him on Twitter after reaching out about his mention in EthHub to congratulate him. He was nice enough to respond, but it was a cold DM. The second time I contacted him was to see if he could contribute to me getting to ETH Denver. That's when he said no. BUT he would be willing to give me a loan if I made an NFT and sent it to him. For more on how that went down, check out my previous blog post. 
 
