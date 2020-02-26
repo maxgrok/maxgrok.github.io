@@ -33,7 +33,7 @@ I took a Greyhound cross country. It took 1.5 days and I felt like I was vibrati
 
 There were tons of great tracks: impact track, bounties track, and open track. I decided to go rogue on the conference. By doing this, I met people I wouldn't have otherwise met and was able to sample a bit of each track. It was my first big ETH event and I'm pretty introverted, but was determined to get out of my shell. 
 
-So, I did a lot off the beat track like come up with a new venture idea with Alex from OpenSea and meet my co-founder, Sam. I met members of MetaCartel for the first time. I met a lot of established folks in the industry who welcomed me warmly. I met kind people from Venezuala, New Zealand, etc.  
+So, I did a lot off the beat track like come up with a new venture idea with Alex from OpenSea and meet my co-founder, Sam. I met members of MetaCartel for the first time. I met a lot of established folks in the industry who welcomed me warmly. I met kind people from Venezuala, New Zealand, etc.  I can't say I would have met any of these people if not for ETH Denver bringing us all together in one spot. 
 
 I didn't know what to expect when I arrived. I knew it would be a large conference, but I didn't realize it would be gamified. I didn't know that 1k+ developers would be inhabiting the 5 floors of the Sports Center on Broadway in Denver to hack on the future of ETH. 
 
@@ -54,11 +54,11 @@ For all he knew, I could have run away with the money or done something awful wi
 
 ![picture-of-the-elusive-hoodie](./elusive_hoodie.jpg)
 
-There were several opportunities for swag. However, I was one of the lucky to recieve the elusive Pepo hoodie during ETH Denver. I did a couple of videos. One on why I love Ethereum and one with a new friend, Tom, who happens to be a part of the Raid Guild. I reported to the booth, then received 2000 pepo and used that to get the hoodie! This was one gamification I couldn't miss out on. 
+There were several opportunities for swag. However, I was one of the lucky to recieve the elusive Pepo hoodie during ETH Denver. I did a couple of videos. One on why I love Ethereum and one with a new friend, Tom. I reported to the booth, then received 2000 pepo and used that to get the hoodie! This was one gamification I couldn't miss out on. 
 
 ## Wait, what talks did you go to? 
 
-I would have posted about talks, but I live tweeted the ones I went to and the event was livestreamed. I highly recommend checking those livestreams out and scrolling through my twitter feed if you're interested in the talks that happened at ETH Denver. 
+I went to lovely talks, and would have posted about talks, but I live tweeted the ones I went to and the event was livestreamed. I highly recommend checking those livestreams out and scrolling through my twitter feed if you're interested in the talks that happened at ETH Denver. 
 
 I think this is one of the great things about ETH Denver: all the knowledge is readily accessible. 
 
