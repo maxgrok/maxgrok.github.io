@@ -1,5 +1,5 @@
 ---
-title: "ETHCC"
+title: "NFTs: Pre-ETHCC"
 date: "2020-03-01T11:48:13.121Z"
 layout: post
 draft: false
@@ -10,14 +10,14 @@ tags:
   - "DeLance"
   - "Pepo"
   - "Solidity"
-description: "This is my Pre-ETHCC journey and NFT process description."
+description: "This is my Pre-ETHCC journey and NFT loan process description."
 ---
 <em>
 I just graduated from Consensys Academy Blockchain Developer Bootcamp and am actively searching for funding for my new startup, <a href="http://www.delance.app/">DeLance</a>, and/or a tech position, preferrably Full Stack, Dapp, or Smart Contract Engineering. I'm flexible for awesome teams with meaningful work.
 
 </em><Br/>
-<strong>TLDR;</strong> <br/>My trip to ETHCC was made possible by Maple.loans and RocketNFT. I borrowed at the same rate that I borrowed before, but a larger amount. Now, I'm going to Paris! 
- </em>
+<h3><strong>TLDR;</strong> <br/>My trip to ETHCC was made possible by Maple.loans and RocketNFT. I borrowed at the same rate that I borrowed before, but a larger amount. Now, I'm going to Paris! 
+ </h3></em>
 
 ## The EthCC NFTs
 
