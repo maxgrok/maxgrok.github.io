@@ -10,7 +10,7 @@ tags:
   - "DeLance"
   - "Pepo"
   - "Solidity"
-description: "ETHCC."
+description: "This is my Pre-ETHCC journey and NFT process description."
 ---
 <em>
 I just graduated from Consensys Academy Blockchain Developer Bootcamp and am actively searching for funding for my new startup, <a href="http://www.delance.app/">DeLance</a>, and/or a tech position, preferrably Full Stack, Dapp, or Smart Contract Engineering. I'm flexible for awesome teams with meaningful work.
