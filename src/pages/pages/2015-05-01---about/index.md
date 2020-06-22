@@ -8,15 +8,24 @@ path: "/about"
 
 ## Languages and Tools
 
-I develop web apps from scratch using the following tools and languages and frameworks.   
+I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks.   
 
-+ **Mockup/Design Tools:** Balsamiq, InvisionApp, Photoshop, GIMP
-+ **Development:** Atom, Sublime Text, CLI, Git, SourceTree, Pivotal Tracker, Atlassian Confluence/JIRA
-+ **Languages:** Javascript, Ruby, HTML5, CSS3, SQL, postgresql
-+ **Frameworks:** Ruby on Rails, React.js, Bootstrap, Semantic UI
++ **Mockup/Design Tools:** Balsamiq, InvisionApp, Sketch
++ **Development:** Atom, Sublime Text, CLI, Git, SourceTree, Pivotal Tracker, Atlassian Confluence
++ **Languages:** Solidity, Javascript, Ruby, HTML5, CSS3, SQL, postgresql
++ **Frameworks:** Truffle, Ganache, Ruby on Rails, React.js, Bootstrap, Semantic UI
 
 <h2 >Timeline</h2>
 <ul class="timeline">
+<strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
+<a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>
+<p>Slaying Web3 Demons. Together.</p><br/>
+
+<strong>DeLance.</strong> <em>February 2020 - Current</em><br />
+<a href="http://www.delance.app/">http://www.delance.app/</a></p>
+<p>Making Technical Freelancers More Money.</p><br/>
+<hr/>
+
 <li style="list-style-type: none;">
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -74,7 +83,7 @@ I develop web apps from scratch using the following tools and languages and fram
 	      <div class="flag-wrapper">
 	        <span class="hexa"></span>
 	        <span class="flag"><strong>Founder.</strong></span> <span class="flag">Gryd, Inc.</span><br>
-	        <span class="time-wrapper"><span class="time">September 2011 - <strong>Present</strong></span></span><br>
+	        <span class="time-wrapper"><span class="time">September 2011 - <strong>2019</strong></span></span><br>
 	      </div>
 	     <div class="desc" style="margin-top:2em;">Creating a directory of free and low-cost resources in Baltimore and beyond.</div>
 	    </div>

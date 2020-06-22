@@ -5,8 +5,17 @@ path: "/companies"
 ---
 <h2>Companies</h2>
 
-<strong>Pragma.</strong> <em>June 2019 - November 2019</em><br />
-<a href="http://www.smartlogic.io/">pragmaco.app/</a></p>
+
+<strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
+<a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>
+<p>Slaying Web3 Demons. Together.</p><br/>
+<hr/>
+<strong>DeLance.</strong> <em>February 2020 - Current</em><br />
+<a href="http://www.delance.app/">http://www.delance.app/</a></p>
+<p>Making Technical Freelancers More Money.</p><br/>
+<hr/>
+<strong>Pragma.</strong> <em>June 2019 - October 2019</em><br />
+<a href="http://www.pragmaco.app/">pragmaco.app/</a></p>
 <p>Making the world more helpful.</p><br/>
 <hr/>
 <strong>SmartLogic.</strong> <em>April 2019 - June 2019</em><br />

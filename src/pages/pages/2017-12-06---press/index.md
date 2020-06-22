@@ -18,7 +18,7 @@ path: "/press"
 
 <!-- Flatiron School Blog Post For Pride -->
 <a href="http://bit.ly/2WCSxs1">
-    <h3 class ="presstitle">Flatiron School | Blog</h3>
+    <h3 class ="presstitle">Flatiron School | Blog</h3></a>
 
 <div class = "grid-x">
     <p class = "cell large-15 small-15">Celebrating Pride with  These Changemakers Breaking Down Barriers in Tech</p>
